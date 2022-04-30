@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-30T12:10:33 CEST" name="Suite" finished-at="2022-04-30T12:10:58 CEST" duration-ms="24524">
+    <groups>
+    </groups>
+    <test started-at="2022-04-30T12:10:33 CEST" name="Test scenario" finished-at="2022-04-30T12:10:58 CEST" duration-ms="24524">
+      <class name="RegisterBank.RegisterPageBank">
+        <test-method is-config="true" signature="setup()[pri:0, instance:RegisterBank.RegisterPageBank@2c35e847]" started-at="2022-04-30T12:10:39 CEST" name="setup" finished-at="2022-04-30T12:10:44 CEST" duration-ms="4877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sofAssertion()[pri:1, instance:RegisterBank.RegisterPageBank@2c35e847]" started-at="2022-04-30T12:10:51 CEST" name="sofAssertion" finished-at="2022-04-30T12:10:52 CEST" duration-ms="761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sofAssertion -->
+        <test-method signature="hardAssertion()[pri:2, instance:RegisterBank.RegisterPageBank@2c35e847]" started-at="2022-04-30T12:10:52 CEST" name="hardAssertion" finished-at="2022-04-30T12:10:52 CEST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hardAssertion -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RegisterBank.RegisterPageBank@2c35e847]" started-at="2022-04-30T12:10:58 CEST" name="tearDown" finished-at="2022-04-30T12:10:58 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- RegisterBank.RegisterPageBank -->
+      <class name="locaters.DemoRequest_">
+        <test-method is-config="true" signature="setup()[pri:0, instance:locaters.DemoRequest_@18d87d80]" started-at="2022-04-30T12:10:33 CEST" name="setup" finished-at="2022-04-30T12:10:39 CEST" duration-ms="5435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EnterFirstNameLastName()[pri:1, instance:locaters.DemoRequest_@18d87d80]" started-at="2022-04-30T12:10:50 CEST" name="EnterFirstNameLastName" finished-at="2022-04-30T12:10:51 CEST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterFirstNameLastName -->
+        <test-method signature="choos_checkbox()[pri:2, instance:locaters.DemoRequest_@18d87d80]" started-at="2022-04-30T12:10:51 CEST" name="choos_checkbox" finished-at="2022-04-30T12:10:51 CEST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- choos_checkbox -->
+        <test-method signature="choose_Radiobutton()[pri:3, instance:locaters.DemoRequest_@18d87d80]" started-at="2022-04-30T12:10:51 CEST" name="choose_Radiobutton" finished-at="2022-04-30T12:10:51 CEST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- choose_Radiobutton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:locaters.DemoRequest_@18d87d80]" started-at="2022-04-30T12:10:58 CEST" name="tearDown" finished-at="2022-04-30T12:10:58 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- locaters.DemoRequest_ -->
+      <class name="Wait.LoginPageWait">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Wait.LoginPageWait@74751b3]" started-at="2022-04-30T12:10:44 CEST" name="setup" finished-at="2022-04-30T12:10:46 CEST" duration-ms="2211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickLoginButton()[pri:1, instance:Wait.LoginPageWait@74751b3]" started-at="2022-04-30T12:10:54 CEST" name="clickLoginButton" finished-at="2022-04-30T12:10:55 CEST" duration-ms="964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginButton -->
+        <test-method signature="enterValidMailandPassword()[pri:2, instance:Wait.LoginPageWait@74751b3]" started-at="2022-04-30T12:10:55 CEST" name="enterValidMailandPassword" finished-at="2022-04-30T12:10:58 CEST" duration-ms="2665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterValidMailandPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Wait.LoginPageWait@74751b3]" started-at="2022-04-30T12:10:58 CEST" name="tearDown" finished-at="2022-04-30T12:10:58 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Wait.LoginPageWait -->
+      <class name="registerFrom.RegisterPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:registerFrom.RegisterPage@7bd4937b]" started-at="2022-04-30T12:10:46 CEST" name="setup" finished-at="2022-04-30T12:10:50 CEST" duration-ms="4020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="listOfElements()[pri:1, instance:registerFrom.RegisterPage@7bd4937b]" started-at="2022-04-30T12:10:52 CEST" name="listOfElements" finished-at="2022-04-30T12:10:54 CEST" duration-ms="1573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listOfElements -->
+        <test-method signature="selectFromDropDown()[pri:2, instance:registerFrom.RegisterPage@7bd4937b]" started-at="2022-04-30T12:10:54 CEST" name="selectFromDropDown" finished-at="2022-04-30T12:10:54 CEST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFromDropDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:registerFrom.RegisterPage@7bd4937b]" started-at="2022-04-30T12:10:58 CEST" name="tearDown" finished-at="2022-04-30T12:10:58 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- registerFrom.RegisterPage -->
+    </test> <!-- Test scenario -->
+  </suite> <!-- Suite -->
+</testng-results>
